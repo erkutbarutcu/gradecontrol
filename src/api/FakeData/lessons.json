@@ -1,0 +1,19 @@
+{
+    "lessons":[
+                {
+                    "id":"1",
+                    "name":"WEB",
+                    "teacherid":"1"
+                },
+                {
+                    "id":"2",
+                    "name":"SCENTİFİC",
+                    "teacherid":"2"
+                },
+                {
+                    "id":"3",
+                    "name":"Data Structer",
+                    "teacherid":"3"
+                }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "homeworks":[
+        {
+            "id":"1",
+            "lessonid":"1",
+            "name":"Programing Homework 2",
+            "addedtime":"17 July 9:00 AM",
+            "deadline":"24 July 9:00 AM",
+            "mod":["4","5","6"],
+            "students":["1","2","3","4","5","6","7","8","9","10"],
+            "isclosed":"false",
+            "isgradable":"true",
+            "graddeadline":"30 July 9:00 AM",
+            "hwinfo":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam rutrum, mi non commodo tincidunt, ligula nunc ornare nisi, ac molestie justo lorem vitae nisi. Aenean venenatis nisi leo, a vestibulum augue accumsan vel. Ut vulputate turpis sed erat ultricies, ac ornare nisi ullamcorper. Pellentesque tincidunt porta est, at imperdiet orci eleifend ut"
+        },
+        {
+            "id":"2",
+            "lessonid":"1",
+            "name":"Programing Homework 1",
+            "addedtime":"11 July 9:00 AM",
+            "deadline":"14 July 9:00 AM",
+            "mod":["4","5","6"],
+            "isclosed":"false",
+            "isgradable":"false",
+            "graddeadline":"30 July 9:00 AM",
+            "hwinfo":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam rutrum, mi non commodo tincidunt, ligula nunc ornare nisi, ac molestie justo lorem vitae nisi. Aenean venenatis nisi leo, a vestibulum augue accumsan vel. Ut vulputate turpis sed erat ultricies, ac ornare nisi ullamcorper. Pellentesque tincidunt porta est, at imperdiet orci eleifend ut"
+            
+        },
+        {
+            "id":"3",
+            "lessonid":"1",
+            "name":"Programing Homework 5",
+            "addedtime":"26 July 9:00 AM",
+            "deadline":"230 July 9:00 AM",
+            "mod":["4","5","6"],
+            "students":["1","2","3","4","5","6","7","8","9","10"],
+            "isclosed":"false",
+            "isgradable":"true",
+            "graddeadline":"30 July 9:00 AM",
+            "hwinfo":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam rutrum, mi non commodo tincidunt, ligula nunc ornare nisi, ac molestie justo lorem vitae nisi. Aenean venenatis nisi leo, a vestibulum augue accumsan vel. Ut vulputate turpis sed erat ultricies, ac ornare nisi ullamcorper. Pellentesque tincidunt porta est, at imperdiet orci eleifend ut"
+            
+        },
+        {   "id":"9",
+            "lessonid":"2",
+            "name":"Programing Homework 2",
+            "addedtime":"17 July 9:00 AM",
+            "deadline":"24 July 9:00 AM",
+            "mod":["4","5","6"],
+            "students":["1","2","3","4","5","6","7","8","9","10"],
+            "isclosed":"true",
+            "isgradable":"false",
+            "graddeadline":"30 July 9:00 AM",
+            "hwinfo":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam rutrum, mi non commodo tincidunt, ligula nunc ornare nisi, ac molestie justo lorem vitae nisi. Aenean venenatis nisi leo, a vestibulum augue accumsan vel. Ut vulputate turpis sed erat ultricies, ac ornare nisi ullamcorper. Pellentesque tincidunt porta est, at imperdiet orci eleifend ut"
+             
+        },
+        {
+            "id":"4",
+            "lessonid":"2",
+            "name":"Programing Homework 1",
+            "addedtime":"11 July 9:00 AM",
+            "deadline":"14 July 9:00 AM",
+            "mod":["4","5","6"],
+            "students":["1","2","3","4","5","6","7","8","9","10"],
+            "isclosed":"false",
+            "isgradable":"false",
+            "graddeadline":"30 July 9:00 AM",
+            "hwinfo":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam rutrum, mi non commodo tincidunt, ligula nunc ornare nisi, ac molestie justo lorem vitae nisi. Aenean venenatis nisi leo, a vestibulum augue accumsan vel. Ut vulputate turpis sed erat ultricies, ac ornare nisi ullamcorper. Pellentesque tincidunt porta est, at imperdiet orci eleifend ut"
+             
+        },
+        {
+            "id":"5",
+            "lessonid":"2",
+            "name":"Programing Homework 5",
+            "addedtime":"26 July 9:00 AM",
+            "deadline":"230 July 9:00 AM",
+            "mod":["4","5","6"],
+            "students":["1","2","3","4","5","6","7","8","9","10"],
+            "isclosed":"false",
+            "isgradable":"true",
+            "graddeadline":"30 July 9:00 AM",
+            "hwinfo":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam rutrum, mi non commodo tincidunt, ligula nunc ornare nisi, ac molestie justo lorem vitae nisi. Aenean venenatis nisi leo, a vestibulum augue accumsan vel. Ut vulputate turpis sed erat ultricies, ac ornare nisi ullamcorper. Pellentesque tincidunt porta est, at imperdiet orci eleifend ut"
+             
+        },
+        {
+            "id":"6",
+            "lessonid":"3",
+            "name":"Programing Homework 2",
+            "addedtime":"17 July 9:00 AM",
+            "deadline":"24 July 9:00 AM",
+            "mod":["4","5","6"],
+            "students":["1","2","3","4","5","6","7","8","9","10"],
+            "isclosed":"true",
+            "isgradable":"true",
+            "graddeadline":"30 July 9:00 AM",
+            "hwinfo":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam rutrum, mi non commodo tincidunt, ligula nunc ornare nisi, ac molestie justo lorem vitae nisi. Aenean venenatis nisi leo, a vestibulum augue accumsan vel. Ut vulputate turpis sed erat ultricies, ac ornare nisi ullamcorper. Pellentesque tincidunt porta est, at imperdiet orci eleifend ut"
+             
+        },
+        {
+            "id":"7",
+            "lessonid":"3",
+            "name":"Programing Homework 1",
+            "addedtime":"11 July 9:00 AM",
+            "deadline":"14 July 9:00 AM",
+            "mod":["4","5","6"],
+            "students":["1","2","3","4","5","6","7","8","9","10"],
+            "isclosed":"false",
+            "isgradable":"true",
+            "graddeadline":"30 July 9:00 AM",
+            "hwinfo":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam rutrum, mi non commodo tincidunt, ligula nunc ornare nisi, ac molestie justo lorem vitae nisi. Aenean venenatis nisi leo, a vestibulum augue accumsan vel. Ut vulputate turpis sed erat ultricies, ac ornare nisi ullamcorper. Pellentesque tincidunt porta est, at imperdiet orci eleifend ut"
+             
+        },
+        {
+            "id":"8",
+            "lessonid":"3",
+            "name":"Programing Homework 5",
+            "addedtime":"26 July 9:00 AM",
+            "deadline":"230 July 9:00 AM",
+            "mod":["4","5","6"],
+            "students":["1","2","3","4","5","6","7","8","9","10"],
+            "isclosed":"false",
+            "isgradable":"true",
+            "graddeadline":"30 July 9:00 AM",
+            "hwinfo":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam rutrum, mi non commodo tincidunt, ligula nunc ornare nisi, ac molestie justo lorem vitae nisi. Aenean venenatis nisi leo, a vestibulum augue accumsan vel. Ut vulputate turpis sed erat ultricies, ac ornare nisi ullamcorper. Pellentesque tincidunt porta est, at imperdiet orci eleifend ut"
+             
+        }
+    ]
+}

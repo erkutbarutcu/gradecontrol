@@ -1,0 +1,130 @@
+{
+    "users": [
+        { 
+            "id":"1",
+            "name": "Erdal Kömürcü",
+            "number": "123",
+            "password": "123",
+            "role": "teacher"
+        },
+        {
+            "id":"2",
+            "name": "Alexander İvanov",
+            "number": "123",
+            "password": "123",
+            "role": "teacher"
+        },
+        {
+            "id":"3",
+            "name": "Elif Eylül",
+            "number": "123",
+            "password": "123",
+            "role": "teacher"
+        },
+        {
+            "id":"4",
+            "name": "Doğu Eşrefoğlu",
+            "number": "123",
+            "password": "123",
+            "role": "mod"
+        },
+        {
+            "id":"5",
+            "name": "Nizamettin Güvenç",
+            "number": "123",
+            "password": "123",
+            "role": "mod"
+        },
+        {
+            "id":"6",
+            "name": "Tuncay Kantarcı",
+            "number": "123",
+            "password": "123",
+            "role": "mod"
+        },
+        {
+            "id":"7",
+            "name": "Erkut Barutçu",
+            "number": "123",
+            "password": "123",
+            "role": "student"
+        },
+        {
+            "id":"8",
+            "name": "Boran Özkan",
+            "number": "123",
+            "password": "123",
+            "role": "student"
+        },
+        {
+            "id":"9",
+            "name": "Muhammed Selçuk",
+            "number": "123",
+            "password": "123",
+            "role": "student"
+        },
+        {
+            "id":"10",
+            "name": "Polat Alemdar",
+            "number": "123",
+            "password": "123",
+            "role": "student"
+        },
+        {
+            "id":"11",
+            "name": "Jack Sparrow",
+            "number": "123",
+            "password": "123",
+            "role": "student"
+        },
+        {
+            "id":"12",
+            "name": "Ziya Yılmaz",
+            "number": "123",
+            "password": "123",
+            "role": "student"
+        },
+        {
+            "id":"13",
+            "name": "Süleyman Çakır",
+            "number": "123",
+            "password": "123",
+            "role": "student"
+        },
+        {
+            "id":"14",
+            "name": "Mehmet Karahanlı",
+            "number": "123",
+            "password": "123",
+            "role": "student"
+        },
+        {
+            "id":"15",
+            "name": "Aslan Akbey",
+            "number": "123",
+            "password": "123",
+            "role": "student"
+        },
+        {
+            "id":"16",
+            "name": "Abdülhey Çoban",
+            "number": "123",
+            "password": "123",
+            "role": "student"
+        },
+        {
+            "id":"17",
+            "name": "Meral Yılmaz",
+            "number": "123",
+            "password": "123",
+            "role": "student"
+        },
+        {
+            "id":"18",
+            "name": "Safiye Karahanlı",
+            "number": "123",
+            "password": "123",
+            "role": "student"
+        }
+    ]
+}
